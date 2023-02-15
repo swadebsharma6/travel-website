@@ -1,0 +1,5 @@
+.carousal-image{
+    height: 70vh;
+    object-fit: cover;
+    border-radius: 10px;
+}
